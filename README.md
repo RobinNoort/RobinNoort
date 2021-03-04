@@ -1,16 +1,28 @@
-### Hi there 👋
+### Hi there <a><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></a>
 
-<!--
-**RobinNoort/RobinNoort** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Robin
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on something cool :wink:
+- 🌱 I’m currently learning C, Python and Haskell
+- 💬 Ask me about anything related to programming or repairing devices
+- ⚡ Fun fact: I like improving :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=robinnoort&count_private=true&show_icons=true&theme=omni)
+
+![My Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinnoort&theme=omni)
+
+# Get to know me a little
+```javascript
+const Robin = {
+  code: ["JavaScript", "TypeScript", "LUA", "HTML5/CSS3"],
+  askMeAbout: ["technology", "it"],
+  learning: ["Python", "C", "Haskell"],
+  architecture: { 'Daily Driver': 'Arch Linux', 'Server Applications': 'Ubuntu' },
+  currentProject: 'Working on something cool :D'
+};
+```
+
+# Get in touch
+* Twitter: https://twitter.com/robinnoort2
+* Instagram: https://www.instagram.com/rbnoort/
+* Discord: RobinNoort#9023
